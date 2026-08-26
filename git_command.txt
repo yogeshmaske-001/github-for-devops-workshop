@@ -27,3 +27,6 @@ dir
  clear                                                                     
  git clone https://github.com/yogeshmaske-001/kubernetes-in-one-shot.git   
  git status                                                                
+
+
+THIS IS NEW CHANGES
